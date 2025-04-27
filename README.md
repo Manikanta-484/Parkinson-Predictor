@@ -2,6 +2,7 @@
 
 This is a web application built with **Streamlit** that predicts whether a person has **Parkinson's Disease** based on vocal measurements.  
 The model was trained using machine learning techniques and deployed using **Streamlit Cloud**.
+[//https://parkinson-predictor-online.streamlit.app/]
 
 ---
 
