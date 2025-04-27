@@ -107,3 +107,9 @@ if st.button('Predict'):
         st.success('The Person does NOT have Parkinson\'s Disease.')
     else:
         st.error('The Person HAS Parkinson\'s Disease.')
+# Footer
+st.markdown("---")
+st.markdown(
+    "<h5 style='text-align: center;'>Developed with ❤️ by <b>Manikanta</b></h5>",
+    unsafe_allow_html=True
+)
