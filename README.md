@@ -64,7 +64,7 @@ parkinson-predictor/
 ## 🌐 Live Demo
 
 You can try the live app here:  
-👉 [**Click to Open App**](https://your-streamlit-deployment-link)
+👉 [**Click to Open App**](https://parkinson-predictor-online.streamlit.app/)
 
 ---
 
